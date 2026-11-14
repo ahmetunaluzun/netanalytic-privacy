@@ -1,10 +1,10 @@
-> Bu depo yalnız NetAnalizer'ın gizlilik metnini içerir. / This repository only holds the NetAnalizer privacy policy.
-> Sürüm / Version 1.1.0 · 2026-11-14
+> Bu depo yalnız NetAnalytic'in gizlilik metnini içerir. / This repository only holds the NetAnalytic privacy policy.
+> Sürüm / Version 1.2.0 · 2026-11-14
 
-# NetAnalizer — Gizlilik metni
+# NetAnalytic — Gizlilik metni
 
 
-**Kısaca:** NetAnalizer bize hiçbir veri göndermez. Ölçümleriniz, ayarlarınız ve ev planınız yalnız bu bilgisayarda durur.
+**Kısaca:** NetAnalytic bize hiçbir veri göndermez. Ölçümleriniz, ayarlarınız ve ev planınız yalnız bu bilgisayarda durur.
 Dışarıya giden istekler ölçümün kendisidir.
 
 ## 1. Veri sorumlusu
@@ -53,9 +53,9 @@ Yeni bir özellik dışarıya yeni bir istek eklerse bu metin güncellenir ve ta
 
 ---
 
-# NetAnalizer — Privacy policy
+# NetAnalytic — Privacy policy
 
-**In short:** NetAnalizer sends no data to us. Your measurements, settings and home plan stay on this computer.
+**In short:** NetAnalytic sends no data to us. Your measurements, settings and home plan stay on this computer.
 The only outgoing requests are the measurements themselves.
 
 ## 1. Controller
@@ -107,6 +107,7 @@ If a new feature adds a new outgoing request, this policy is updated and its dat
 
 | Sürüm / Version | Tarih / Date | Değişen alan / Changed | Eski / Old | Yeni / New | Neden / Reason |
 |---|---|---|---|---|---|
+| 1.2.0 | 2026-11-14 | Uygulama adı / App name | NetAnalizer | NetAnalytic | Microsoft Store adı / Microsoft Store name |
 | 1.1.0 | 2026-11-14 | §3 Ookla | Ookla motoru seçiliyse / When the Ookla engine is used | Yalnız GitHub sürümünde / GitHub edition only | Microsoft Store sürümü hız testini Cloudflare ile yapar / The Store edition measures speed with Cloudflare |
 | 1.1.0 | 2026-11-14 | §3 DNS | — | DNS sunucusuna ad sorgusu / Name lookup at your DNS server | Eksik satır eklendi / Missing row added |
 | 1.1.0 | 2026-11-14 | §2 | — | Ev ağı trafiği, cihaz adı ve MAC / Home network traffic, device names and MAC | Yeni özellikler / New features |
